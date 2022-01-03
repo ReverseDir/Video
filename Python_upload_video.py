@@ -5,13 +5,6 @@
 #А как на developera, очень секусально звучит, но на деле я тот же робот, тока не много выше, самый высокий это ютуб
 #Он и поработил эту всю систему... Хотя выше гугл, а ещё выше... Ну в прочем не важно
 
-#ALL INFO
-#YoutubeMakeVideo
-#Project ID: youtube-api-336009. It cannot be changed late
-#Api key - AIzaSyDP2irtI2RxOd0ubFxnTBeF8fQG0fWwt-w
-#My Client Id     - 1002313489134-3gkq0ut8c4ddgtpr85j38v79lospulj4.apps.googleusercontent.com
-#My Client Secret - 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
-
 
 #Other
 import io
